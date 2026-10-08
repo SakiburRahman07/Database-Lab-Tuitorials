@@ -1,0 +1,21 @@
+# Local / exported database data
+*.sql.gz
+*.bak
+*.dump
+*.log
+*.tmp
+*.swp
+*~
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+.pytest_cache/
+
+# Do not accidentally commit local config/secrets
+.env
+.env.*
+credentials.json

@@ -1,0 +1,400 @@
+{
+  "source_pdf": "CSE_210_Database_System_Lab.pdf",
+  "pdf_pages": 80,
+  "original_manual_page_ranges": {
+    "lab-01": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "lab-02": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "lab-03": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "lab-04": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "lab-05": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "lab-06": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "lab-07": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "lab-08": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "lab-09": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "lab-10": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ]
+  },
+  "image_assets": [
+    "page-01-image-01.png",
+    "page-01-image-02.png",
+    "page-07-image-01.png",
+    "page-08-image-01.png",
+    "page-09-image-01.png",
+    "page-10-image-01.png",
+    "page-10-image-02.png",
+    "page-11-image-01.png",
+    "page-11-image-02.png",
+    "page-12-image-01.png",
+    "page-13-data-types.png",
+    "page-13-table-04.png",
+    "page-15-image-01.png",
+    "page-16-image-01.png",
+    "page-16-image-02.png",
+    "page-17-image-01.png",
+    "page-18-image-01.png",
+    "page-19-image-01.png",
+    "page-19-image-02.png",
+    "page-20-image-01.png",
+    "page-20-image-02.png",
+    "page-27-image-01.png",
+    "page-27-image-02.png",
+    "page-28-image-01.png",
+    "page-28-image-02.png",
+    "page-28-image-03.png",
+    "page-29-image-01.png",
+    "page-29-image-02.png",
+    "page-29-image-03.png",
+    "page-30-image-01.png",
+    "page-30-image-02.png",
+    "page-31-image-01.png",
+    "page-31-image-02.png",
+    "page-31-image-03.png",
+    "page-32-image-01.png",
+    "page-32-image-02.png",
+    "page-32-image-03.png",
+    "page-33-image-01.png",
+    "page-33-image-02.png",
+    "page-34-image-01.png",
+    "page-34-image-02.png",
+    "page-34-image-03.png",
+    "page-35-image-01.png",
+    "page-38-image-01.png",
+    "page-47-aggregate-functions.png",
+    "page-52-image-01.png",
+    "page-53-image-01.png",
+    "page-54-join-functions.png",
+    "page-54-table-07.png",
+    "page-55-image-01.png",
+    "page-58-image-01.png",
+    "page-58-image-02.png",
+    "page-58-image-03.png",
+    "page-59-image-01.png",
+    "page-59-image-02.png",
+    "page-59-image-03.png",
+    "page-63-image-01.png",
+    "page-63-image-02.png",
+    "page-64-image-01.png",
+    "page-65-image-01.png",
+    "page-66-image-01.png",
+    "page-69-image-01.png",
+    "page-70-image-01.png",
+    "page-74-table-15.png",
+    "page-78-functions-versus-procedures.png",
+    "page-78-table-03.png",
+    "page-78-table-07.png"
+  ],
+  "counts": {
+    "images": 67,
+    "text_blocks": 901,
+    "sql_blocks": 178
+  },
+  "figures": [
+    [
+      7,
+      "*Figure I.1: Logo of MySQL*"
+    ],
+    [
+      8,
+      "*Figure I.2: Workflow Diagram of the Lab*"
+    ],
+    [
+      9,
+      "*Figure I.3: XAMPP Control Panel*"
+    ],
+    [
+      10,
+      "*Figure I.4: Session in Localhost*"
+    ],
+    [
+      10,
+      "*Figure I.5: Space for Editing SQL Commands*"
+    ],
+    [
+      11,
+      "*Figure I.6: Created Table named Student*"
+    ],
+    [
+      11,
+      "*Figure I.7: Description of Student Table*"
+    ],
+    [
+      12,
+      "*Figure I.8: Browsing Result of Student Table*"
+    ],
+    [
+      15,
+      "*Figure II.1: Workflow Diagram of this Lab*"
+    ],
+    [
+      16,
+      "*Figure II.2: Session in Localhost*"
+    ],
+    [
+      16,
+      "*Figure II.3: Space for Editing Commands*"
+    ],
+    [
+      17,
+      "*Figure II.4: Description of Players Table*"
+    ],
+    [
+      18,
+      "*Figure II.5: Description of Students Table*"
+    ],
+    [
+      19,
+      "*Figure II.6: Description of diplomas Table*"
+    ],
+    [
+      19,
+      "*Figure II.7: Description of teams Table*"
+    ],
+    [
+      20,
+      "*Figure II.8: Description of players Table*"
+    ],
+    [
+      20,
+      "*Figure II.9: Players Table*"
+    ],
+    [
+      27,
+      "*Figure III.1: employee table structure*"
+    ],
+    [
+      27,
+      "*Figure III.2: After adding email*"
+    ],
+    [
+      28,
+      "*Figure III.3: After deleting email attribute*"
+    ],
+    [
+      28,
+      "*Figure III.4: Adding email attribute after last name*"
+    ],
+    [
+      28,
+      "*Figure III.5: Added Gender attribute in the first column*"
+    ],
+    [
+      29,
+      "*Figure III.6: Added multiple column to the employees table*"
+    ],
+    [
+      29,
+      "*Figure III.7: Deleted email and Gender attributes from employees table*"
+    ],
+    [
+      29,
+      "*Figure III.8: changed the constraint of salary column*"
+    ],
+    [
+      30,
+      "*Figure III.9: changed First_name to f_name*"
+    ],
+    [
+      30,
+      "*Figure III.10: Added unique constraint in salary column*"
+    ],
+    [
+      31,
+      "*Figure III.11: Dropped the constraint*"
+    ],
+    [
+      31,
+      "*Figure III.12: Modified the data-type of salary attribute*"
+    ],
+    [
+      31,
+      "*Figure III.13: employees table*"
+    ],
+    [
+      32,
+      "*Figure III.14: departments table*"
+    ],
+    [
+      32,
+      "*Figure III.15: Before adding Primary key*"
+    ],
+    [
+      32,
+      "*Figure III.16: After adding Primary Key*"
+    ],
+    [
+      33,
+      "*Figure III.17: All Constraints of employees table*"
+    ],
+    [
+      33,
+      "*Figure III.18: departments table*"
+    ],
+    [
+      34,
+      "*Figure III.19: employees table*"
+    ],
+    [
+      34,
+      "*Figure III.20: employees table*"
+    ],
+    [
+      34,
+      "*Figure III.21: employees_backup_info table*"
+    ],
+    [
+      35,
+      "*Figure III.22: updated employees table*"
+    ],
+    [
+      38,
+      "*Figure IV.1: Employees Table Information*"
+    ],
+    [
+      52,
+      "*Figure VI.1: Employees Table Information*"
+    ],
+    [
+      53,
+      "*Figure VI.2: Employees Table Information*"
+    ],
+    [
+      55,
+      "*Figure VII.1: Classification of Join Operations*"
+    ],
+    [
+      58,
+      "*Figure VII.2: Project Table Information*"
+    ],
+    [
+      58,
+      "*Figure VII.3: Project Table Information*"
+    ],
+    [
+      58,
+      "*Figure VII.4: Client Table Information*"
+    ],
+    [
+      59,
+      "*Figure VII.5: Customer and Salesman table*"
+    ],
+    [
+      59,
+      "*Figure VII.6: Customer and Salesman table*"
+    ],
+    [
+      59,
+      "*Figure VII.7: Customer and Salesman table*"
+    ],
+    [
+      63,
+      "*Figure VIII.1: Session in Localhost*"
+    ],
+    [
+      63,
+      "*Figure VIII.2: Space for Editing Commands*"
+    ],
+    [
+      64,
+      "*Figure VIII.3: Data Items in customers Table*"
+    ],
+    [
+      65,
+      "*Figure VIII.4: Creating Trigger on Customer Table*"
+    ],
+    [
+      66,
+      "*Figure VIII.5: Data Items in customers Table*"
+    ],
+    [
+      69,
+      "*Figure IX.1: Data items in the penalties table*"
+    ],
+    [
+      70,
+      "*Figure IX.2: Data items in the penalties table after deletion*"
+    ]
+  ]
+}
