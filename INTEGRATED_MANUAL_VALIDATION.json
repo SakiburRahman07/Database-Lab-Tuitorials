@@ -1,0 +1,81 @@
+{
+  "pdf_pages": 80,
+  "chapters": 10,
+  "inline_examples": 48,
+  "per_lab": [
+    {
+      "lab": 1,
+      "original_characters": 13428,
+      "live_examples": 7,
+      "source_sections": 17
+    },
+    {
+      "lab": 2,
+      "original_characters": 16824,
+      "live_examples": 14,
+      "source_sections": 24
+    },
+    {
+      "lab": 3,
+      "original_characters": 10970,
+      "live_examples": 2,
+      "source_sections": 7
+    },
+    {
+      "lab": 4,
+      "original_characters": 4742,
+      "live_examples": 2,
+      "source_sections": 7
+    },
+    {
+      "lab": 5,
+      "original_characters": 9037,
+      "live_examples": 4,
+      "source_sections": 9
+    },
+    {
+      "lab": 6,
+      "original_characters": 11755,
+      "live_examples": 3,
+      "source_sections": 8
+    },
+    {
+      "lab": 7,
+      "original_characters": 9003,
+      "live_examples": 2,
+      "source_sections": 7
+    },
+    {
+      "lab": 8,
+      "original_characters": 7879,
+      "live_examples": 4,
+      "source_sections": 17
+    },
+    {
+      "lab": 9,
+      "original_characters": 6542,
+      "live_examples": 7,
+      "source_sections": 18
+    },
+    {
+      "lab": 10,
+      "original_characters": 10882,
+      "live_examples": 3,
+      "source_sections": 13
+    }
+  ],
+  "main_bytes": 195347,
+  "raw_bytes": 127365,
+  "zip_bytes": 3999933,
+  "tested_markdown_image_references": 128,
+  "broken_markdown_image_references": [
+    [
+      "/mnt/data/CSE-210-Database-System-Lab/COMPLETE_PDF_WITH_INLINE_WORKING_EXAMPLES.md",
+      "../assets/source-figures/page-01-image-01.png"
+    ],
+    [
+      "/mnt/data/CSE-210-Database-System-Lab/COMPLETE_PDF_WITH_INLINE_WORKING_EXAMPLES.md",
+      "../assets/source-figures/page-01-image-02.png"
+    ]
+  ]
+}

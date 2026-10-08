@@ -1,5 +1,14 @@
 # CSE 210 — Database System Lab
 
+## START HERE — The original PDF + inline copy-paste classroom demonstrations
+
+**[Read the complete teaching Markdown (full PDF, in order, with examples immediately after each relevant section)](COMPLETE_PDF_WITH_INLINE_WORKING_EXAMPLES.md)**
+
+This is the version to use while teaching. Original paragraphs, code fragments, figures, tables and lab assignments are retained. New self-contained examples are marked **Instructor-added live example**, so you can distinguish them from the original.
+
+**[Original text extracted page by page](RAW_PDF_TEXT_BY_PAGE.md)** · **[Open individual integrated lab manuals](teaching-manuals/lab-01.md)**
+
+
 **10 independent, instructor-ready MySQL lab manuals** based on the *CSE 210 Database System Lab Manual*, Department of Computer Science and Engineering, Green University of Bangladesh.
 
 Each lesson has its **own Markdown manual**, its **own complete SQL file**, sample data, a guided demonstration, expected outputs, additional student exercises, and viva/checkpoint questions. A lecturer can **open any lab and copy-paste its SQL from the Markdown** without running Labs 01–09 beforehand.
